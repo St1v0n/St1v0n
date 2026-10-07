@@ -1,4 +1,4 @@
-# ¡Hola! Soy St1v0n 👋
+# ¡Hola! a todos gracias por visitarme
 
 Estudiante de **Ingeniería de Sistemas** apasionado por la **Ciberseguridad** y el **Desarrollo de Software**. Me enfoco en escribir código limpio, entender la arquitectura de los sistemas y proteger entornos digitales.
 
